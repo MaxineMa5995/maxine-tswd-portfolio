@@ -12,6 +12,9 @@ This set of grid of line charts uses the data from 1995 to 2021 to show the gene
 <div class="flourish-embed flourish-chart" data-src="visualisation/12579309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## (Data Visualization II) General Government Debt-to-GDP Ratio by Countries in Year 1995-2021
+Below are two graphs showing the general government debt-to-GDP ratio by countries in year 1995-2021. As what we see from the bar chart from Part 1, Japan, Greece, Italy, and the USA are the four countries which have the highest general government debt-to-GDP ratio in 2021. Hence in the following two graphs, I am focusing on analyzing these four countries by showing the trends of ratio changes for them from 1995 to 2021, and compare them with other countries in the same time period. 
+
+For the first graph, I use pie chart to show the audience a sense of comparision with other countries. I use black for Japan as it has the higest ratio in 2021, and black can be a sign of warning; blue for Greece, green for Italy, red for the USA, as those are the colors for these countries' flags.  
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12585768"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
