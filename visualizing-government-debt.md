@@ -3,7 +3,9 @@
 # Part 1: [OECD] General Government Debt-to-GDP Ratio in 2021
 <iframe src="https://data.oecd.org/chart/6XY0" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XY0" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
-# Part 2: [Flourish] General Government Debt-to-GDP Ratio
+# Part 2: [Flourish] (Data Visualization I) General Government Debt-to-GDP Ratio by Countries
+This graph uses the data from 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/12579309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Part 3: [Tableau] General Government Debt-to-GDP Ratio Ranked by Average Ratio
