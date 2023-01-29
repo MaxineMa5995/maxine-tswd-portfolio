@@ -6,3 +6,6 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12579309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+# [Tableau] General Government Debt-to-GDP Ratio Ranked by Average Ratio
+<script type='module' src='https://prod-useast-a.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-a.online.tableau.com/t/maxinema/views/OECDdatawalkthru/GeneralGovernmentDebt-to-GDPRatioRankedbyAverageRatio' width='1198' height='635' hide-tabs toolbar='bottom' ></tableau-viz>
+
