@@ -11,6 +11,9 @@ This set of grid of line charts uses the data from 1995 to 2021 to show the gene
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12579309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## (Data Visualization Extra) General Government Debt-to-GDP Ratio by Countries in Year 1995-2021
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/12585487"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 # Part 3: Working with Tableau
 ## General Government Debt-to-GDP Ratio Ranked by Average Ratio
 <script type='module' src='https://prod-useast-a.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-a.online.tableau.com/t/maxinema/views/OECDdatawalkthru/GeneralGovernmentDebt-to-GDPRatioRankedbyAverageRatio' width='1198' height='635' hide-tabs toolbar='bottom' ></tableau-viz>
