@@ -16,12 +16,10 @@ Below are two graphs showing the general government debt-to-GDP ratio by countri
 
 For the first graph, I use pie chart to show the audience a sense of comparision with other countries. I use black for Japan as it has the higest ratio in 2021, and black can be a sign of warning; blue for Greece, green for Italy, red for the USA, as those are the colors for these countries' flags.  
 
+### Graph I
 <div class="flourish-embed flourish-chart" data-src="visualisation/12585768"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## (Data Visualization Extra) General Government Debt-to-GDP Ratio by Countries in Year 1995-2021
-
-
-<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/12585487"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+### Graph II
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/12585487"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Part 3: Working with Tableau
