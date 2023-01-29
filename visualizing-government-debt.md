@@ -11,7 +11,12 @@ This set of grid of line charts uses the data from 1995 to 2021 to show the gene
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12579309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## (Data Visualization II) General Government Debt-to-GDP Ratio by Countries in Year 1995-2021
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12585768"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## (Data Visualization Extra) General Government Debt-to-GDP Ratio by Countries in Year 1995-2021
+
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/12585487"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Part 3: Working with Tableau
