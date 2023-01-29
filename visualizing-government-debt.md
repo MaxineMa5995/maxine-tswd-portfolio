@@ -19,6 +19,7 @@ This set of grid of line charts uses the data from 1995 to 2021 to show the gene
 
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/12585487"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/12585487"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Part 3: Working with Tableau
 ## General Government Debt-to-GDP Ratio Ranked by Average Ratio
