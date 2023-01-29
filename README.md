@@ -35,7 +35,7 @@ Nice to know you!
 
 # Portfolio
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
 A link to a new page will be coming soon.   
 This page is linking to a new Markdown document called `visualizing-government-debt.md`.  
 Note: For links to Markdown files in the repository, just include the name of the page without the `.md` extension. 
