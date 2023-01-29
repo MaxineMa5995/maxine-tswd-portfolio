@@ -1,4 +1,4 @@
-| [home page](https://maxinema5995.github.io/maxine-tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://maxinema5995.github.io/maxine-tswd-portfolio/) | [visualizing debt](https://maxinema5995.github.io/maxine-tswd-portfolio/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Part 1: (OECD) General Government Debt-to-GDP Ratio in 2021
 This government debt bar chart clearly shows the general government debt-to-GDP ratio in 2021 for each country. The countries are ranked by ratio. The OECD-Average ratio is shown in black. 
