@@ -36,9 +36,8 @@ Nice to know you!
 # Portfolio
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
-A link to a new page will be coming soon.   
-This page is linking to a new Markdown document called `visualizing-government-debt.md`.  
-Note: For links to Markdown files in the repository, just include the name of the page without the `.md` extension. 
+In this assignment, we used several tools (Flourish and Tableau) to visualize the goverment debt data from 1995-2021 for countries in The Organization for Economic Co-operation and Development ([OECD](https://data.oecd.org/gga/general-government-debt.htm)). 
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 A link to a new page will be coming soon. 
